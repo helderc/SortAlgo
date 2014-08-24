@@ -12,3 +12,5 @@ Here are the following sort algorithms:
 - Quick Sort
 - Selection Sort
 - Shell Sort
+
+More info at: http://helderc.net
